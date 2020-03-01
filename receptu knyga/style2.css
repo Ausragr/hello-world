@@ -1,0 +1,25 @@
+body{
+    background-color: #fff2e6;
+}
+h1{
+    color: #663300;
+    text-align: center;
+}
+h2{
+    color :#663300;
+    text-align: left;
+}
+p{
+    color :#663300;
+    font-size: 20px;
+    text-align: left;
+}
+img{
+    width: 500px;
+    border: solid #331a00 2px;
+    padding: 5px;
+    border-radius: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: normal;
+}
